@@ -7,7 +7,7 @@ body {
   min-width: 250px;
 }
 .header {
-  width: 500px;
+  width: 400px;
   overflow: hidden;
   margin: 0px auto 0 auto;
   background: rgb(0, 19, 223);
@@ -89,7 +89,7 @@ ul li.checked {
 }
 
 .main {
-  width: 500px;
+  width: 400px;
   overflow: hidden;
   overflow: hidden;
   margin: 0px auto 0 auto;
